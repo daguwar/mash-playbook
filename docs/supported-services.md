@@ -107,6 +107,7 @@ Below is an exhaustive list of the free and open-source software for self-hostin
 | [Infisical](https://infisical.com/) | An end-to-end encrypted platform for securely managing secrets and configs across your team, devices, and infrastructure | [Link](services/infisical.md) |
 | [InfluxDB OSS v2](https://docs.influxdata.com/influxdb/v2/) | A time-series database | [Link](services/influxdb.md) |
 | [InspIRCd](https://www.inspircd.org/) | Modular IRC server written in C++ | [Link](services/inspircd.md) |
+| [IT-Tools](https://sharevb-it-tools.vercel.app/) | Useful tools for developers and people working in IT | [Link](services/it_tools.md) |
 | [Jackett](https://github.com/Jackett/Jackett) | An API for your favorite torrent trackers | [Link](services/jackett.md) |
 | [Jellyfin](https://github.com/jellyfin/jellyfin) | A personal media server | [Link](services/jellyfin.md) |
 | [Jellyseerr](https://github.com/Fallenbagel/jellyseerr)| A media request and discovery manager for Jellyfin, Plex, and Emby | [Link](services/jellyseerr.md) |
