@@ -337,7 +337,7 @@
   name: inspircd
   activation_prefix: inspircd_
 - src: git+https://codeberg.org/daguwar/ansible-role-it_tools.git
-  version: v1.0
+  version: v1.1
   name: it_tools
   activation_prefix: it_tools_
 - src: git+https://github.com/spatterIight/ansible-role-jackett.git
