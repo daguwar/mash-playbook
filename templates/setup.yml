@@ -401,6 +401,10 @@
     - role: galaxy/inspircd
     # /role-specific:inspircd
 
+    # role-specific:it_tools
+    - role: galaxy/it_tools
+    # /role-specific:it_tools
+
     # role-specific:jackett
     - role: galaxy/jackett
     # /role-specific:jackett
